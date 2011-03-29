@@ -1,0 +1,108 @@
+.mstheme
+{
+	separator-image: url(cacrulea.gif);
+	list-image-1: url(cacbul1a.gif);
+	list-image-2: url(cacbul2a.gif);
+	list-image-3: url(cacbul3a.gif);
+	nav-banner-image: url(cacbana.gif);
+	navbutton-horiz-normal: url(cacnavha.gif);
+	navbutton-horiz-hovered: url(cacnavhh.gif);
+	navbutton-horiz-pushed: url(cacnavhe.gif);
+	navbutton-vert-normal: url(cacnavva.gif);
+	navbutton-vert-hovered: url(cacnavvh.gif);
+	navbutton-vert-pushed: url(cacnavve.gif);
+	navbutton-home-normal: url(cachoma.gif);
+	navbutton-home-hovered: url(cachomh.gif);
+	navbutton-home-pushed: url(cachome.gif);
+	navbutton-next-normal: url(cacnxta.gif);
+	navbutton-next-hovered: url(cacnxth.gif);
+	navbutton-next-pushed: url(cacnxte.gif);
+	navbutton-prev-normal: url(cacprea.gif);
+	navbutton-prev-hovered: url(cacpreh.gif);
+	navbutton-prev-pushed: url(cacpree.gif);
+	navbutton-up-normal: url(cacupa.gif);
+	navbutton-up-hovered: url(cacuph.gif);
+	navbutton-up-pushed: url(cacupe.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Comic Sans MS, Arial, Helvetica;
+	color: rgb(0, 51, 0);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+	text-align: left;
+	vertical-align: bottom;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Garamond;
+	color: rgb(0, 0, 0);
+	font-size: 4;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxthome
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	color: rgb(51, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtnext
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	color: rgb(51, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtprev
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	color: rgb(51, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-navtxtup
+{
+	font-family: Trebuchet MS, Arial, Helvetica;
+	color: rgb(51, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+ul
+{
+	list-style-image: url(cacbul1a.gif);
+}
+ul ul
+{
+	list-style-image: url(cacbul2a.gif);
+}
+ul ul ul
+{
+	list-style-image: url(cacbul3a.gif);
+}

@@ -1,0 +1,730 @@
+MKD cactus
+257 "/home/mdbird/RIVIERA/_themes/cactus" directory created.
+CWD cactus
+250 "/home/mdbird/RIVIERA/_themes/cactus" is new cwd.
+PWD
+257 "/home/mdbird/RIVIERA/_themes/cactus" is cwd.
+PASV
+227 Entering Passive Mode (199,104,81,3,20,76)
+connecting to 199.104.81.3:5196
+- -
+connecting to 199.104.81.3:5196
+Connected to 199.104.81.3 port 5196
+LIST
+150 Data connection accepted from 12.7.222.53:1803; transfer starting.
+Received 0 bytes in 0.1 secs, (0.00 bps), transfer succeeded
+226 Listing completed.
+sending cacbana.gif as cacbana.gif (3 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,3)
+connecting to 199.104.81.3:5379
+- -
+connecting to 199.104.81.3:5379
+Connected to 199.104.81.3 port 5379
+STOR cacbana.gif
+150 Data connection accepted from 12.7.222.53:1854; transfer starting.
+Transmitted 4970 bytes in 0.1 secs, (480.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacband.gif as cacband.gif (4 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,11)
+connecting to 199.104.81.3:5387
+- -
+connecting to 199.104.81.3:5387
+Connected to 199.104.81.3 port 5387
+STOR cacband.gif
+150 Data connection accepted from 12.7.222.53:1855; transfer starting.
+Transmitted 6790 bytes in 0.1 secs, (660.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacbul1a.gif as cacbul1a.gif (5 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,26)
+connecting to 199.104.81.3:5402
+- -
+connecting to 199.104.81.3:5402
+Connected to 199.104.81.3 port 5402
+STOR cacbul1a.gif
+150 Data connection accepted from 12.7.222.53:1856; transfer starting.
+Transmitted 256 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacbul1d.gif as cacbul1d.gif (6 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,30)
+connecting to 199.104.81.3:5406
+- -
+connecting to 199.104.81.3:5406
+Connected to 199.104.81.3 port 5406
+STOR cacbul1d.gif
+150 Data connection accepted from 12.7.222.53:1857; transfer starting.
+Transmitted 231 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacbul2a.gif as cacbul2a.gif (7 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,33)
+connecting to 199.104.81.3:5409
+- -
+connecting to 199.104.81.3:5409
+Connected to 199.104.81.3 port 5409
+STOR cacbul2a.gif
+150 Data connection accepted from 12.7.222.53:1858; transfer starting.
+Transmitted 131 bytes in 0.1 secs, (10.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacbul2d.gif as cacbul2d.gif (8 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,38)
+connecting to 199.104.81.3:5414
+- -
+connecting to 199.104.81.3:5414
+Connected to 199.104.81.3 port 5414
+STOR cacbul2d.gif
+150 Data connection accepted from 12.7.222.53:1859; transfer starting.
+Transmitted 92 bytes in 0.1 secs, (9200.00 bps), transfer succeeded
+226 Transfer completed.
+sending cacbul3a.gif as cacbul3a.gif (9 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,40)
+connecting to 199.104.81.3:5416
+- -
+connecting to 199.104.81.3:5416
+Connected to 199.104.81.3 port 5416
+STOR cacbul3a.gif
+150 Data connection accepted from 12.7.222.53:1860; transfer starting.
+Transmitted 89 bytes in 0.1 secs, (8900.00 bps), transfer succeeded
+226 Transfer completed.
+sending cacbul3d.gif as cacbul3d.gif (10 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,45)
+connecting to 199.104.81.3:5421
+- -
+connecting to 199.104.81.3:5421
+Connected to 199.104.81.3 port 5421
+STOR cacbul3d.gif
+150 Data connection accepted from 12.7.222.53:1861; transfer starting.
+Transmitted 83 bytes in 0.1 secs, (8300.00 bps), transfer succeeded
+226 Transfer completed.
+sending cacglobd.gif as cacglobd.gif (11 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,48)
+connecting to 199.104.81.3:5424
+- -
+connecting to 199.104.81.3:5424
+Connected to 199.104.81.3 port 5424
+STOR cacglobd.gif
+150 Data connection accepted from 12.7.222.53:1862; transfer starting.
+Transmitted 468 bytes in 0.1 secs, (40.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cachoma.gif as cachoma.gif (12 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,55)
+connecting to 199.104.81.3:5431
+- -
+connecting to 199.104.81.3:5431
+Connected to 199.104.81.3 port 5431
+STOR cachoma.gif
+150 Data connection accepted from 12.7.222.53:1863; transfer starting.
+Transmitted 261 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cachomd.gif as cachomd.gif (13 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,58)
+connecting to 199.104.81.3:5434
+- -
+connecting to 199.104.81.3:5434
+Connected to 199.104.81.3 port 5434
+STOR cachomd.gif
+150 Data connection accepted from 12.7.222.53:1864; transfer starting.
+Transmitted 299 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cachome.gif as cachome.gif (14 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,63)
+connecting to 199.104.81.3:5439
+- -
+connecting to 199.104.81.3:5439
+Connected to 199.104.81.3 port 5439
+STOR cachome.gif
+150 Data connection accepted from 12.7.222.53:1865; transfer starting.
+Transmitted 287 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cachomh.gif as cachomh.gif (15 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,66)
+connecting to 199.104.81.3:5442
+- -
+connecting to 199.104.81.3:5442
+Connected to 199.104.81.3 port 5442
+STOR cachomh.gif
+150 Data connection accepted from 12.7.222.53:1866; transfer starting.
+Transmitted 285 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacnavha.gif as cacnavha.gif (16 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,68)
+connecting to 199.104.81.3:5444
+- -
+connecting to 199.104.81.3:5444
+Connected to 199.104.81.3 port 5444
+STOR cacnavha.gif
+150 Data connection accepted from 12.7.222.53:1867; transfer starting.
+Transmitted 1373 bytes in 0.1 secs, (130.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacnavhd.gif as cacnavhd.gif (17 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,75)
+connecting to 199.104.81.3:5451
+- -
+connecting to 199.104.81.3:5451
+Connected to 199.104.81.3 port 5451
+STOR cacnavhd.gif
+150 Data connection accepted from 12.7.222.53:1868; transfer starting.
+Transmitted 795 bytes in 0.1 secs, (70.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacnavhe.gif as cacnavhe.gif (18 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,82)
+connecting to 199.104.81.3:5458
+- -
+connecting to 199.104.81.3:5458
+Connected to 199.104.81.3 port 5458
+STOR cacnavhe.gif
+150 Data connection accepted from 12.7.222.53:1869; transfer starting.
+Transmitted 1099 bytes in 0.1 secs, (100.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacnavhh.gif as cacnavhh.gif (19 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,89)
+connecting to 199.104.81.3:5465
+- -
+connecting to 199.104.81.3:5465
+Connected to 199.104.81.3 port 5465
+STOR cacnavhh.gif
+150 Data connection accepted from 12.7.222.53:1870; transfer starting.
+Transmitted 1099 bytes in 0.1 secs, (100.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacnavhs.gif as cacnavhs.gif (20 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,93)
+connecting to 199.104.81.3:5469
+- -
+connecting to 199.104.81.3:5469
+Connected to 199.104.81.3 port 5469
+STOR cacnavhs.gif
+150 Data connection accepted from 12.7.222.53:1871; transfer starting.
+Transmitted 755 bytes in 0.1 secs, (70.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacnavva.gif as cacnavva.gif (21 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,96)
+connecting to 199.104.81.3:5472
+- -
+connecting to 199.104.81.3:5472
+Connected to 199.104.81.3 port 5472
+STOR cacnavva.gif
+150 Data connection accepted from 12.7.222.53:1872; transfer starting.
+Transmitted 1373 bytes in 0.1 secs, (130.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacnavvd.gif as cacnavvd.gif (22 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,100)
+connecting to 199.104.81.3:5476
+- -
+connecting to 199.104.81.3:5476
+Connected to 199.104.81.3 port 5476
+STOR cacnavvd.gif
+150 Data connection accepted from 12.7.222.53:1873; transfer starting.
+Transmitted 795 bytes in 0.1 secs, (70.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacnavve.gif as cacnavve.gif (23 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,105)
+connecting to 199.104.81.3:5481
+- -
+connecting to 199.104.81.3:5481
+Connected to 199.104.81.3 port 5481
+STOR cacnavve.gif
+150 Data connection accepted from 12.7.222.53:1874; transfer starting.
+Transmitted 1099 bytes in 0.1 secs, (100.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacnavvh.gif as cacnavvh.gif (24 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,112)
+connecting to 199.104.81.3:5488
+- -
+connecting to 199.104.81.3:5488
+Connected to 199.104.81.3 port 5488
+STOR cacnavvh.gif
+150 Data connection accepted from 12.7.222.53:1875; transfer starting.
+Transmitted 1099 bytes in 0.1 secs, (100.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacnavvs.gif as cacnavvs.gif (25 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,116)
+connecting to 199.104.81.3:5492
+- -
+connecting to 199.104.81.3:5492
+Connected to 199.104.81.3 port 5492
+STOR cacnavvs.gif
+150 Data connection accepted from 12.7.222.53:1876; transfer starting.
+Transmitted 755 bytes in 0.1 secs, (70.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacnxta.gif as cacnxta.gif (26 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,120)
+connecting to 199.104.81.3:5496
+- -
+connecting to 199.104.81.3:5496
+Connected to 199.104.81.3 port 5496
+STOR cacnxta.gif
+150 Data connection accepted from 12.7.222.53:1877; transfer starting.
+Transmitted 252 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacnxtd.gif as cacnxtd.gif (27 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,124)
+connecting to 199.104.81.3:5500
+- -
+connecting to 199.104.81.3:5500
+Connected to 199.104.81.3 port 5500
+STOR cacnxtd.gif
+150 Data connection accepted from 12.7.222.53:1878; transfer starting.
+Transmitted 241 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacnxte.gif as cacnxte.gif (28 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,127)
+connecting to 199.104.81.3:5503
+- -
+connecting to 199.104.81.3:5503
+Connected to 199.104.81.3 port 5503
+STOR cacnxte.gif
+150 Data connection accepted from 12.7.222.53:1879; transfer starting.
+Transmitted 274 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacnxth.gif as cacnxth.gif (29 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,131)
+connecting to 199.104.81.3:5507
+- -
+connecting to 199.104.81.3:5507
+Connected to 199.104.81.3 port 5507
+STOR cacnxth.gif
+150 Data connection accepted from 12.7.222.53:1880; transfer starting.
+Transmitted 294 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacprea.gif as cacprea.gif (30 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,134)
+connecting to 199.104.81.3:5510
+- -
+connecting to 199.104.81.3:5510
+Connected to 199.104.81.3 port 5510
+STOR cacprea.gif
+150 Data connection accepted from 12.7.222.53:1881; transfer starting.
+Transmitted 241 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacpred.gif as cacpred.gif (31 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,139)
+connecting to 199.104.81.3:5515
+- -
+connecting to 199.104.81.3:5515
+Connected to 199.104.81.3 port 5515
+STOR cacpred.gif
+150 Data connection accepted from 12.7.222.53:1882; transfer starting.
+Transmitted 238 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacpree.gif as cacpree.gif (32 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,144)
+connecting to 199.104.81.3:5520
+- -
+connecting to 199.104.81.3:5520
+Connected to 199.104.81.3 port 5520
+STOR cacpree.gif
+150 Data connection accepted from 12.7.222.53:1883; transfer starting.
+Transmitted 268 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacpreh.gif as cacpreh.gif (33 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,149)
+connecting to 199.104.81.3:5525
+- -
+connecting to 199.104.81.3:5525
+Connected to 199.104.81.3 port 5525
+STOR cacpreh.gif
+150 Data connection accepted from 12.7.222.53:1884; transfer starting.
+Transmitted 248 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacrulea.gif as cacrulea.gif (34 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,153)
+connecting to 199.104.81.3:5529
+- -
+connecting to 199.104.81.3:5529
+Connected to 199.104.81.3 port 5529
+STOR cacrulea.gif
+150 Data connection accepted from 12.7.222.53:1885; transfer starting.
+Transmitted 1448 bytes in 0.1 secs, (140.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacruled.gif as cacruled.gif (35 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,156)
+connecting to 199.104.81.3:5532
+- -
+connecting to 199.104.81.3:5532
+Connected to 199.104.81.3 port 5532
+STOR cacruled.gif
+150 Data connection accepted from 12.7.222.53:1886; transfer starting.
+Transmitted 1101 bytes in 0.1 secs, (100.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cactus.inf as cactus.inf (36 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,159)
+connecting to 199.104.81.3:5535
+- -
+connecting to 199.104.81.3:5535
+Connected to 199.104.81.3 port 5535
+STOR cactus.inf
+150 Data connection accepted from 12.7.222.53:1887; transfer starting.
+Transmitted 298 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cactus.utf8 as cactus.utf8 (37 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,163)
+connecting to 199.104.81.3:5539
+- -
+connecting to 199.104.81.3:5539
+Connected to 199.104.81.3 port 5539
+STOR cactus.utf8
+150 Data connection accepted from 12.7.222.53:1888; transfer starting.
+Transmitted 298 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cactxtr.gif as cactxtr.gif (38 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,164)
+connecting to 199.104.81.3:5540
+- -
+connecting to 199.104.81.3:5540
+Connected to 199.104.81.3 port 5540
+STOR cactxtr.gif
+150 Data connection accepted from 12.7.222.53:1889; transfer starting.
+Transmitted 6519 bytes in 0.1 secs, (630.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacupa.gif as cacupa.gif (39 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,174)
+connecting to 199.104.81.3:5550
+- -
+connecting to 199.104.81.3:5550
+Connected to 199.104.81.3 port 5550
+STOR cacupa.gif
+150 Data connection accepted from 12.7.222.53:1890; transfer starting.
+Transmitted 254 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacupd.gif as cacupd.gif (40 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,178)
+connecting to 199.104.81.3:5554
+- -
+connecting to 199.104.81.3:5554
+Connected to 199.104.81.3 port 5554
+STOR cacupd.gif
+150 Data connection accepted from 12.7.222.53:1891; transfer starting.
+Transmitted 249 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacupe.gif as cacupe.gif (41 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,181)
+connecting to 199.104.81.3:5557
+- -
+connecting to 199.104.81.3:5557
+Connected to 199.104.81.3 port 5557
+STOR cacupe.gif
+150 Data connection accepted from 12.7.222.53:1892; transfer starting.
+Transmitted 283 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending cacuph.gif as cacuph.gif (42 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,184)
+connecting to 199.104.81.3:5560
+- -
+connecting to 199.104.81.3:5560
+Connected to 199.104.81.3 port 5560
+STOR cacuph.gif
+150 Data connection accepted from 12.7.222.53:1893; transfer starting.
+Transmitted 259 bytes in 0.1 secs, (20.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending color0.css as color0.css (43 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,189)
+connecting to 199.104.81.3:5565
+- -
+connecting to 199.104.81.3:5565
+Connected to 199.104.81.3 port 5565
+STOR color0.css
+150 Data connection accepted from 12.7.222.53:1894; transfer starting.
+Transmitted 1092 bytes in 0.1 secs, (100.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending color1.css as color1.css (44 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,194)
+connecting to 199.104.81.3:5570
+- -
+connecting to 199.104.81.3:5570
+Connected to 199.104.81.3 port 5570
+STOR color1.css
+150 Data connection accepted from 12.7.222.53:1895; transfer starting.
+Transmitted 1096 bytes in 0.1 secs, (100.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending custom.css as custom.css (45 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,198)
+connecting to 199.104.81.3:5574
+- -
+connecting to 199.104.81.3:5574
+Connected to 199.104.81.3 port 5574
+STOR custom.css
+150 Data connection accepted from 12.7.222.53:1896; transfer starting.
+Transmitted 5347 bytes in 0.1 secs, (520.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending graph0.css as graph0.css (46 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,202)
+connecting to 199.104.81.3:5578
+- -
+connecting to 199.104.81.3:5578
+Connected to 199.104.81.3 port 5578
+STOR graph0.css
+150 Data connection accepted from 12.7.222.53:1897; transfer starting.
+Transmitted 1786 bytes in 0.1 secs, (170.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending graph1.css as graph1.css (47 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,205)
+connecting to 199.104.81.3:5581
+- -
+connecting to 199.104.81.3:5581
+Connected to 199.104.81.3 port 5581
+STOR graph1.css
+150 Data connection accepted from 12.7.222.53:1898; transfer starting.
+Transmitted 2179 bytes in 0.1 secs, (210.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending theme.css as theme.css (48 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,208)
+connecting to 199.104.81.3:5584
+- -
+connecting to 199.104.81.3:5584
+Connected to 199.104.81.3 port 5584
+STOR theme.css
+150 Data connection accepted from 12.7.222.53:1899; transfer starting.
+Transmitted 2239 bytes in 0.1 secs, (210.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending WS_FTP.LOG as WS_FTP.LOG (49 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,213)
+connecting to 199.104.81.3:5589
+- -
+connecting to 199.104.81.3:5589
+Connected to 199.104.81.3 port 5589
+STOR WS_FTP.LOG
+150 Data connection accepted from 12.7.222.53:1900; transfer starting.
+Transmitted 19840 bytes in 0.8 secs, (254.62 Kbps), transfer succeeded
+226 Transfer completed.
+sending xferlog.txt as xferlog.txt (50 of 54)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,221)
+connecting to 199.104.81.3:5597
+- -
+connecting to 199.104.81.3:5597
+Connected to 199.104.81.3 port 5597
+STOR xferlog.txt
+150 Data connection accepted from 12.7.222.53:1901; transfer starting.
+Transmitted 19369 bytes in 0.7 secs, (271.94 Kbps), transfer succeeded
+226 Transfer completed.
+PWD
+257 "/home/mdbird/RIVIERA/_themes/cactus" is cwd.
+PASV
+227 Entering Passive Mode (199,104,81,3,21,236)
+connecting to 199.104.81.3:5612
+- -
+connecting to 199.104.81.3:5612
+Connected to 199.104.81.3 port 5612
+LIST
+150 Data connection accepted from 12.7.222.53:1902; transfer starting.
+Received 3384 bytes in 0.7 secs, (50.23 Kbps), transfer succeeded
+226 Listing completed.
+CWD /home/mdbird/RIVIERA/_themes
+250 "/home/mdbird/RIVIERA/_themes" is new cwd.
+PWD
+257 "/home/mdbird/RIVIERA/_themes" is cwd.
+PASV
+227 Entering Passive Mode (199,104,81,3,21,240)
+connecting to 199.104.81.3:5616
+- -
+connecting to 199.104.81.3:5616
+Connected to 199.104.81.3 port 5616
+LIST
+150 Data connection accepted from 12.7.222.53:1903; transfer starting.
+Received 130 bytes in 0.1 secs, (10.00 Kbps), transfer succeeded
+226 Listing completed.
+MKD cactus
+521 Directory already exists.
+CWD cactus
+250 "/home/mdbird/_themes/cactus" is new cwd.
+PWD
+257 "/home/mdbird/_themes/cactus" is cwd.
+PASV
+227 Entering Passive Mode (199,104,81,3,62,35)
+connecting to 199.104.81.3:15907
+- -
+connecting to 199.104.81.3:15907
+Connected to 199.104.81.3 port 15907
+LIST
+150 Data connection accepted from 12.7.222.120:1622; transfer starting.
+Received 3384 bytes in 0.6 secs, (56.31 Kbps), transfer succeeded
+226 Listing completed.
+sending cacbana.gif as cacbana.gif (3 of 55)
++ newer or same version of cacbana.gif already exists!
+sending cacband.gif as cacband.gif (4 of 55)
++ newer or same version of cacband.gif already exists!
+sending cacbul1a.gif as cacbul1a.gif (5 of 55)
++ newer or same version of cacbul1a.gif already exists!
+sending cacbul1d.gif as cacbul1d.gif (6 of 55)
++ newer or same version of cacbul1d.gif already exists!
+sending cacbul2a.gif as cacbul2a.gif (7 of 55)
++ newer or same version of cacbul2a.gif already exists!
+sending cacbul2d.gif as cacbul2d.gif (8 of 55)
++ newer or same version of cacbul2d.gif already exists!
+sending cacbul3a.gif as cacbul3a.gif (9 of 55)
++ newer or same version of cacbul3a.gif already exists!
+sending cacbul3d.gif as cacbul3d.gif (10 of 55)
++ newer or same version of cacbul3d.gif already exists!
+sending cacglobd.gif as cacglobd.gif (11 of 55)
++ newer or same version of cacglobd.gif already exists!
+sending cachoma.gif as cachoma.gif (12 of 55)
++ newer or same version of cachoma.gif already exists!
+sending cachomd.gif as cachomd.gif (13 of 55)
++ newer or same version of cachomd.gif already exists!
+sending cachome.gif as cachome.gif (14 of 55)
++ newer or same version of cachome.gif already exists!
+sending cachomh.gif as cachomh.gif (15 of 55)
++ newer or same version of cachomh.gif already exists!
+sending cacnavha.gif as cacnavha.gif (16 of 55)
++ newer or same version of cacnavha.gif already exists!
+sending cacnavhd.gif as cacnavhd.gif (17 of 55)
++ newer or same version of cacnavhd.gif already exists!
+sending cacnavhe.gif as cacnavhe.gif (18 of 55)
++ newer or same version of cacnavhe.gif already exists!
+sending cacnavhh.gif as cacnavhh.gif (19 of 55)
++ newer or same version of cacnavhh.gif already exists!
+sending cacnavhs.gif as cacnavhs.gif (20 of 55)
++ newer or same version of cacnavhs.gif already exists!
+sending cacnavva.gif as cacnavva.gif (21 of 55)
++ newer or same version of cacnavva.gif already exists!
+sending cacnavvd.gif as cacnavvd.gif (22 of 55)
++ newer or same version of cacnavvd.gif already exists!
+sending cacnavve.gif as cacnavve.gif (23 of 55)
++ newer or same version of cacnavve.gif already exists!
+sending cacnavvh.gif as cacnavvh.gif (24 of 55)
++ newer or same version of cacnavvh.gif already exists!
+sending cacnavvs.gif as cacnavvs.gif (25 of 55)
++ newer or same version of cacnavvs.gif already exists!
+sending cacnxta.gif as cacnxta.gif (26 of 55)
++ newer or same version of cacnxta.gif already exists!
+sending cacnxtd.gif as cacnxtd.gif (27 of 55)
++ newer or same version of cacnxtd.gif already exists!
+sending cacnxte.gif as cacnxte.gif (28 of 55)
++ newer or same version of cacnxte.gif already exists!
+sending cacnxth.gif as cacnxth.gif (29 of 55)
++ newer or same version of cacnxth.gif already exists!
+sending cacprea.gif as cacprea.gif (30 of 55)
++ newer or same version of cacprea.gif already exists!
+sending cacpred.gif as cacpred.gif (31 of 55)
++ newer or same version of cacpred.gif already exists!
+sending cacpree.gif as cacpree.gif (32 of 55)
++ newer or same version of cacpree.gif already exists!
+sending cacpreh.gif as cacpreh.gif (33 of 55)
++ newer or same version of cacpreh.gif already exists!
+sending cacrulea.gif as cacrulea.gif (34 of 55)
++ newer or same version of cacrulea.gif already exists!
+sending cacruled.gif as cacruled.gif (35 of 55)
++ newer or same version of cacruled.gif already exists!
+sending cactus.inf as cactus.inf (36 of 55)
++ newer or same version of cactus.inf already exists!
+sending cactus.utf8 as cactus.utf8 (37 of 55)
++ newer or same version of cactus.utf8 already exists!
+sending cactxtr.gif as cactxtr.gif (38 of 55)
++ newer or same version of cactxtr.gif already exists!
+sending cacupa.gif as cacupa.gif (39 of 55)
++ newer or same version of cacupa.gif already exists!
+sending cacupd.gif as cacupd.gif (40 of 55)
++ newer or same version of cacupd.gif already exists!
+sending cacupe.gif as cacupe.gif (41 of 55)
++ newer or same version of cacupe.gif already exists!
+sending cacuph.gif as cacuph.gif (42 of 55)
++ newer or same version of cacuph.gif already exists!
+sending color0.css as color0.css (43 of 55)
++ newer or same version of color0.css already exists!
+sending color1.css as color1.css (44 of 55)
++ newer or same version of color1.css already exists!
+sending custom.css as custom.css (45 of 55)
++ newer or same version of custom.css already exists!
+sending graph0.css as graph0.css (46 of 55)
++ newer or same version of graph0.css already exists!
+sending graph1.css as graph1.css (47 of 55)
++ newer or same version of graph1.css already exists!
+sending theme.css as theme.css (48 of 55)
++ newer or same version of theme.css already exists!
+sending WS_FTP.LOG as WS_FTP.LOG (49 of 55)
+TYPE I
+200 Type okay.
+PASV
+227 Entering Passive Mode (199,104,81,3,62,69)
+connecting to 199.104.81.3:15941
+- -
+connecting to 199.104.81.3:15941
+Connected to 199.104.81.3 port 15941
+STOR WS_FTP.LOG
+150 Data connection accepted from 12.7.222.120:1627; transfer starting.
+Transmitted 26494 bytes in 1.2 secs, (220.32 Kbps), transfer succeeded
+226 Transfer completed.
+sending xferlog.txt as xferlog.txt (50 of 55)
+PASV
+227 Entering Passive Mode (199,104,81,3,62,74)
+connecting to 199.104.81.3:15946
+- -
+connecting to 199.104.81.3:15946
+Connected to 199.104.81.3 port 15946
+STOR xferlog.txt
+150 Data connection accepted from 12.7.222.120:1628; transfer starting.
+Transmitted 26277 bytes in 1.5 secs, (173.32 Kbps), transfer succeeded
+226 Transfer completed.
+PWD
+257 "/home/mdbird/_themes/cactus" is cwd.
+TYPE A
+200 Type okay.
+PASV
+227 Entering Passive Mode (199,104,81,3,62,84)
+connecting to 199.104.81.3:15956
+- -
+connecting to 199.104.81.3:15956
+Connected to 199.104.81.3 port 15956
+LIST
+150 Data connection accepted from 12.7.222.120:1629; transfer starting.
+Received 3384 bytes in 0.6 secs, (58.82 Kbps), transfer succeeded
+226 Listing completed.
+CWD /home/mdbird/_themes
+250 "/home/mdbird/_themes" is new cwd.
+PWD
+257 "/home/mdbird/_themes" is cwd.
+PASV
+227 Entering Passive Mode (199,104,81,3,62,91)
+connecting to 199.104.81.3:15963
+- -
+connecting to 199.104.81.3:15963
+Connected to 199.104.81.3 port 15963
+LIST
+150 Data connection accepted from 12.7.222.120:1630; transfer starting.
+Received 335 bytes in 0.1 secs, (30.00 Kbps), transfer succeeded
+226 Listing completed.

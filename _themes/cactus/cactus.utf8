@@ -1,0 +1,29 @@
+[info]
+title=Cactus
+codepage=65001
+version=2.03
+format=2
+readonly=0
+refcount=2
+
+[titles]
+1036=Cactus
+1031=Kaktus
+3082=Cacto
+1040=Cactus
+1035=Kaktus
+1030=Kaktus
+1044=Kaktus
+1053=Kaktus
+1046=Cactus
+1043=Cactus
+2052=仙人掌
+1028=仙人掌
+1041=サボテン
+1042=선인장
+[Fonts]
+windows-1250, GARAMOND=Garamond
+windows-1251, GARAMOND=Garamond
+windows-1253, GARAMOND=Garamond
+windows-1254, GARAMOND=Garamond
+windows-1257, GARAMOND=Garamond

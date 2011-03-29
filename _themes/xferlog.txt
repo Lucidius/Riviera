@@ -1,0 +1,145 @@
+MKD _themes
+257 "/home/mdbird/RIVIERA/_themes" directory created.
+CWD _themes
+250 "/home/mdbird/RIVIERA/_themes" is new cwd.
+PWD
+257 "/home/mdbird/RIVIERA/_themes" is cwd.
+PASV
+227 Entering Passive Mode (199,104,81,3,20,55)
+connecting to 199.104.81.3:5175
+- -
+connecting to 199.104.81.3:5175
+Connected to 199.104.81.3 port 5175
+LIST
+150 Data connection accepted from 12.7.222.53:1797; transfer starting.
+Received 0 bytes in 0.1 secs, (0.00 bps), transfer succeeded
+226 Listing completed.
+sending themes.inf as themes.inf (4 of 10)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,243)
+connecting to 199.104.81.3:5619
+- -
+connecting to 199.104.81.3:5619
+Connected to 199.104.81.3 port 5619
+STOR themes.inf
+150 Data connection accepted from 12.7.222.53:1904; transfer starting.
+Transmitted 7328 bytes in 0.1 secs, (710.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending WS_FTP.LOG as WS_FTP.LOG (5 of 10)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,251)
+connecting to 199.104.81.3:5627
+- -
+connecting to 199.104.81.3:5627
+Connected to 199.104.81.3 port 5627
+STOR WS_FTP.LOG
+150 Data connection accepted from 12.7.222.53:1905; transfer starting.
+Transmitted 1922 bytes in 0.1 secs, (180.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending xferlog.txt as xferlog.txt (6 of 10)
+PASV
+227 Entering Passive Mode (199,104,81,3,21,255)
+connecting to 199.104.81.3:5631
+- -
+connecting to 199.104.81.3:5631
+Connected to 199.104.81.3 port 5631
+STOR xferlog.txt
+150 Data connection accepted from 12.7.222.53:1906; transfer starting.
+Transmitted 1587 bytes in 0.1 secs, (150.00 Kbps), transfer succeeded
+226 Transfer completed.
+PWD
+257 "/home/mdbird/RIVIERA/_themes" is cwd.
+PASV
+227 Entering Passive Mode (199,104,81,3,22,3)
+connecting to 199.104.81.3:5635
+- -
+connecting to 199.104.81.3:5635
+Connected to 199.104.81.3 port 5635
+LIST
+150 Data connection accepted from 12.7.222.53:1907; transfer starting.
+Received 335 bytes in 0.1 secs, (30.00 Kbps), transfer succeeded
+226 Listing completed.
+CWD /home/mdbird/RIVIERA
+250 "/home/mdbird/RIVIERA" is new cwd.
+PWD
+257 "/home/mdbird/RIVIERA" is cwd.
+PASV
+227 Entering Passive Mode (199,104,81,3,22,7)
+connecting to 199.104.81.3:5639
+- -
+connecting to 199.104.81.3:5639
+Connected to 199.104.81.3 port 5639
+LIST
+150 Data connection accepted from 12.7.222.53:1908; transfer starting.
+Received 395 bytes in 0.1 secs, (30.00 Kbps), transfer succeeded
+226 Listing completed.
+MKD _themes
+521 Directory already exists.
+CWD _themes
+250 "/home/mdbird/_themes" is new cwd.
+PWD
+257 "/home/mdbird/_themes" is cwd.
+PASV
+227 Entering Passive Mode (199,104,81,3,62,20)
+connecting to 199.104.81.3:15892
+- -
+connecting to 199.104.81.3:15892
+Connected to 199.104.81.3 port 15892
+LIST
+150 Data connection accepted from 12.7.222.120:1617; transfer starting.
+Received 335 bytes in 0.1 secs, (30.00 Kbps), transfer succeeded
+226 Listing completed.
+sending themes.inf as themes.inf (4 of 11)
++ newer or same version of themes.inf already exists!
+sending WS_FTP.LOG as WS_FTP.LOG (5 of 11)
+TYPE I
+200 Type okay.
+PASV
+227 Entering Passive Mode (199,104,81,3,62,94)
+connecting to 199.104.81.3:15966
+- -
+connecting to 199.104.81.3:15966
+Connected to 199.104.81.3 port 15966
+STOR WS_FTP.LOG
+150 Data connection accepted from 12.7.222.120:1631; transfer starting.
+Transmitted 2626 bytes in 0.1 secs, (250.00 Kbps), transfer succeeded
+226 Transfer completed.
+sending xferlog.txt as xferlog.txt (6 of 11)
+PASV
+227 Entering Passive Mode (199,104,81,3,62,98)
+connecting to 199.104.81.3:15970
+- -
+connecting to 199.104.81.3:15970
+Connected to 199.104.81.3 port 15970
+STOR xferlog.txt
+150 Data connection accepted from 12.7.222.120:1632; transfer starting.
+Transmitted 3789 bytes in 0.1 secs, (370.00 Kbps), transfer succeeded
+226 Transfer completed.
+PWD
+257 "/home/mdbird/_themes" is cwd.
+TYPE A
+200 Type okay.
+PASV
+227 Entering Passive Mode (199,104,81,3,62,102)
+connecting to 199.104.81.3:15974
+- -
+connecting to 199.104.81.3:15974
+Connected to 199.104.81.3 port 15974
+LIST
+150 Data connection accepted from 12.7.222.120:1633; transfer starting.
+Received 335 bytes in 0.1 secs, (30.00 Kbps), transfer succeeded
+226 Listing completed.
+CWD /home/mdbird
+250 "/home/mdbird" is new cwd.
+PWD
+257 "/home/mdbird" is cwd.
+PASV
+227 Entering Passive Mode (199,104,81,3,62,105)
+connecting to 199.104.81.3:15977
+- -
+connecting to 199.104.81.3:15977
+Connected to 199.104.81.3 port 15977
+LIST
+150 Data connection accepted from 12.7.222.120:1634; transfer starting.
+Received 1643 bytes in 0.3 secs, (46.38 Kbps), transfer succeeded
+226 Listing completed.
